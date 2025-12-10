@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "Pepe Jeans",
+      "price": 3999,
+      "category": "Garments",
+      "id": "3887"
+    },
+    {
+      "id": "974a",
+      "name": "Levis Jeans",
+      "price": 2599,
+      "category": "Garments"
+    }
+  ]
+}
